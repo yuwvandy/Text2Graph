@@ -1,4 +1,4 @@
-# Text2Graph
+# Text2Graph (T2G+)
 
 ```
 bash run.sh
